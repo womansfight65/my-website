@@ -197,6 +197,7 @@ function womensfight_page_definitions() {
 		'package'              => 'Product',
 		'ai-agent'             => 'AI Agent',
 		'contact'              => 'Contact Us',
+		'menual'               => 'আমাদের সম্পর্কে ও সার্ভিস তথ্য',
 	);
 }
 
